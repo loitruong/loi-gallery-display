@@ -2,6 +2,8 @@
 
 Loi Gallery Display is a jQuery plugin to display gallery in your custom grid system.
 
+##[DEMO](http://loitruong.us/project/loi-gallery-display/demo/###)##
+
 ## Settings
 
 Option | Description
